@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">M1P2R29</string>
+    <string name="validate_form">لطفا تمامی فیلد ها رو پر کنید</string>
+    <string name="saved">ذخیره شد</string>
+    <string name="notFound">یافت نشد</string>
+    <string name="duplicat_identifier">قبلا ذخیره شده</string>
+</resources>
